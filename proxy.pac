@@ -1,4 +1,4 @@
-var wall_proxy = "SOCKS 192.168.1.43:1081;";
+var wall_proxy = "PROXY 192.168.1.100:2599;";
 var nowall_proxy = "DIRECT;";
 var direct = "DIRECT;";
 var ip_proxy = "DIRECT;";
